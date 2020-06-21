@@ -1,0 +1,43 @@
+---
+title: "Covid-19"
+author: "ALBOOSI Jaafar"
+Matric number: "1713599"
+date: "6/21/2020"
+output: html_document
+---
+
+## Abstract:
+Covid-19, one of the most threatening viruses in the world today, started by the end of 2019, until the date of writing this document it is still a danger for humanity.
+In this research , and since the data collected still suffer from incompetence, our mission here is to explore the effect of this virus on the humanity by asking questions and try to answer them from the data we have between hands, and furthermore predict some results for the future or come up with conclusions regarding this issue.
+This research will include: descriptive analysis of the virus effect in the world using both graphics and summary calculation, and models to predict and generalize results we reach in our research.
+
+
+## Introduction:
+Coronaviruses are actually a family of hundreds of viruses. Most of these infect animals such as bats, chickens, camels and cats.
+The first coronavirus was discovered in chickens in the 1930s. It was a few decades until the first human coronaviruses were identified in the 1960s. To date, seven coronaviruses have the ability to cause disease in humans. Four are endemic (regularly found among particular people or in a certain area) and usually cause mild disease, but three can cause much more serious and even fatal disease.
+For reading more visit: https://theconversation.com/coronaviruses-a-brief-history-135506
+
+
+## Data and methodology:
+As we explained before, the main issue with Covid-19 other than the data validity, is the data availability. thus, we had to collect data from many sources, and many datasets from each of these sources, each of these datasets has more or less features, more or less suitable shapes. that is the reason we have many datasets, the sources we depended on are:
+1. Kaggle (6 datasets) namely: "covid_19_clean_complete" , "country_wise_latest" , "day_wise" , "worldometer_data" , "full_grouped" "usa_country_wise"
+1. Ourworlddata (7 datasets) namely: "full_data" , "locations" , "new_cases" , "new_deaths" , "owid-covid-data" , "total_cases" , "total_deaths"
+1. DataHub (2 datasets) namely: "covid_19_activity" , "covid_19_cases"
+It is important to take note that we might not use all these datasets for the same reason we mentioned earlier. We are new to this and still exploring. thus, some of the datasets might get dropped at all, some might be merged with others, and some might drop some features...etc. Depending on that we can say the following:
+1. This file will include "from-scratch" analysis, every dataset and every feature will get examined, to know what to use and what to drop, it will not be just a research of conclusions, but furthermore, it is a documentation of our work from A-Z
+2. This project will include another document that contains description of the finalized data that we build during cleaning and exploring step.
+Having all that said, our general methodology will be as the following:
+1. checking the datasets we have, record the features and information each dataset can provide
+1. suggesting questions that can be answered by the datasets we have
+1. cleaning and reshaping datasets
+1. descriptive statistics and finding relationships between variables
+1. inferential statistics and generalizing our descriptive results 
+
+
+
+
+
+
+
+
+
